@@ -1,4 +1,4 @@
-module exampple/main
+module example/main
 
 go 1.18
 
